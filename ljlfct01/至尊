@@ -352,17 +352,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-      {
-      "key": "lvdou",
-      "name": "📢🌈原盘💖4k",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "https://cdn.waimaimingtang.com/file/images/bwc/20251023214920-f8567c1b85.jar;md5;6ea33c17933c910130d2905dd23f248d",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://210.16.170.113:8999/api.php/app/"
-    },
+   
         {
       "key": "tenteng",
       "name": "📢🌈随缘①💖真4k",
@@ -864,39 +854,9 @@
       "name": "4K",
       "type": 1,
       "url": "http://167.234.211.77:4207/api/?key=XkIbVVBdUCUBEf2zlv&url="
-    },
-
-   {
-      "name": "原盘",
-      "type": 1,
-      "url": "http://1.95.112.195:8889/get?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.3",
-          "token": "4234377766"
-        }
-      }
     }
 
+ 
   
   ],
   "flags": [
