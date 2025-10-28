@@ -1,6 +1,6 @@
 # 未匹配频道报告
 # 以下频道在源中未找到匹配项
-# 生成时间: 2025-10-28 21:25:50
+# 生成时间: 2025-10-29 03:10:13
 
 ## 模板中未匹配的频道（在源中找不到）
 
@@ -8,6 +8,21 @@
 
 
 ## 源中未匹配的频道（在模板中找不到）
+
+默认分类,#genre#
+义乌新闻综合,
+中国蓝新闻,
+数码时代,
+武义新闻综合,
+余杭综合频道,
+余杭未来E频道,
+余姚新闻综合,
+余姚姚江文化,
+嵊州新闻综合,
+山西卫视,
+足球频道,
+CETV-3,
+陕西卫视,
 
 🕘️更新时间,#genre#
 2025-10-28 18:25:33,
@@ -422,21 +437,6 @@ CN卡通,
 天龙八部,
 仙剑奇侠传,
 
-默认分类,#genre#
-义乌新闻综合,
-中国蓝新闻,
-数码时代,
-武义新闻综合,
-余杭综合频道,
-余杭未来E频道,
-余姚新闻综合,
-余姚姚江文化,
-嵊州新闻综合,
-山西卫视,
-足球频道,
-CETV-3,
-陕西卫视,
-
 央视频道,#genre#
 CGTN英语,
 CGTN纪录,
@@ -532,40 +532,6 @@ JJ斗地主,
 巴彦淖尔新闻,
 赤峰新闻综合,
 乌兰察布新闻,
-
-港澳台,#genre#
-澳门卫视,
-Pet Club TV,
-Bloomberg TV Asia,
-HKS,
-Celestial Movies,
-TVB News,
-Good,
-Good 2,
-Beautiful Life TV,
-Supreme Master TV,
-Taiwan Plus TV,
-Genius Go Go Go,
-DaAi 1,
-DaAi 2,
-Dali TV,
-EBC YOYO,
-CTi News,
-FTV News,
-Global News,
-SET iNews,
-TTV News,
-mnews,
-ET Mall 60,
-东森财经新闻,
-Momo 1,
-Momo 2,
-信大,
-NU,
-NU2,
-JP1,
-KPop,
-民视新闻HD,
 
 港澳台外,#genre#
 民视频道,
@@ -893,6 +859,40 @@ AI七宗罪.人工智能三大定律竟有致命漏洞,
 爱真的只是激素吗.当灵魂超脱肉体人类又能否逃离天罚,
 人类永远无法战胜的初代魔王,
 从苏美到波斯.最后的阿努纳奇,
+
+港澳台,#genre#
+澳门卫视,
+Pet Club TV,
+Bloomberg TV Asia,
+HKS,
+Celestial Movies,
+TVB News,
+Good,
+Good 2,
+Beautiful Life TV,
+Supreme Master TV,
+Taiwan Plus TV,
+Genius Go Go Go,
+DaAi 1,
+DaAi 2,
+Dali TV,
+EBC YOYO,
+CTi News,
+FTV News,
+Global News,
+SET iNews,
+TTV News,
+mnews,
+ET Mall 60,
+东森财经新闻,
+Momo 1,
+Momo 2,
+信大,
+NU,
+NU2,
+JP1,
+KPop,
+民视新闻HD,
 
 央视高清,#genre#
 上海纪实,
@@ -1282,7 +1282,6 @@ NewTV 明星大片,
 嘉兴公共,
 嘉兴新闻综合,
 四海钓鱼,
-奎屯哈萨克语,
 安顺新闻,
 宜阳综合,
 宿松新闻综合,
@@ -1327,6 +1326,7 @@ NewTV 明星大片,
 洛阳科教,
 洛阳综合,
 洞头综合,
+济南都市,
 济源电视一套,
 浙江休闲台,
 浙江教育,
@@ -1345,6 +1345,7 @@ NewTV 明星大片,
 滑县新闻,
 滨海新闻综合,
 潢川综合,
+潼南综合,
 灵宝新闻综合,
 玛纳斯综合,
 环球旅游,
@@ -3566,8 +3567,6 @@ Le vite degli altri – Pluto TV,
 中国村庄,
 临潭,
 人与自然,
-伊犁汉语,
-伊犁维吾尔,
 兵团五师双河影,
 双辽,
 地理中国,
@@ -3675,9 +3674,8 @@ JJ斗地主,
 黄龙,
 
 更新时间,#genre#
-2025-10-28 18:25:50,
-2025-10-28 18:25:51,
+2025-10-29 00:20:51,
 
-# 源中未匹配频道总计: 3325
+# 源中未匹配频道总计: 3323
 
-# 未匹配频道总计: 3325
+# 未匹配频道总计: 3323
