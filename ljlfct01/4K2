@@ -276,7 +276,63 @@
       "type": 3,
       "api": "csp_HBconfig"
     },
+   {
+      "key": "景天",
+      "name": "景天|4K弹幕",
+      "type": 3,
+      "api": "csp_HBcms10Dou",
+      "ext": "https://zy.sh0o.cn/api.php/provide/vod/from/qq/"
+    },
+    {
+      "key": "茂茂",
+      "name": "茂茂|4K弹幕",
+      "type": 3,
+      "api": "csp_HBcms10Dou",
+      "ext": "https://zy.sh0o.cn/api.php/provide/vod/from/mgtv/"
+    },
+    {
+      "key": "🈵 茶烟书韵 | 解析",
+      "name": "🈵 茶烟书韵 | 解析",
+      "type": 3,
+      "api": "csp_Yyets",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "jxApi": "ElYCCOvkbFlMBDdoMgsgQf8Bi/YYvHC8tbrQ30wezTY8Ugoun+4eZ9mpD6dbGOs1hEXx/2NXjtiTQECBbBIiVk0FXOg4LaLVBSyLku7qoK6OYj/9HpX2nB1izbAjSWDD"
   
+      },
+      "jar": "https://www.lintech.work/超大杯/custom_spider_20251016.tms;md5;04b565f0ad83c26c1ecd0ae04f747466"
+    },
+     {
+      "key": "🈵 醉挽清风 | 解析",
+      "name": "🈵 醉挽清风 | 解析",
+      "type": 3,
+      "api": "csp_Breeze",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "jxApi": "ElYCCOvkbFlMBDdoMgsgQf8Bi/YYvHC8tbrQ30wezTY8Ugoun+4eZ9mpD6dbGOs1hEXx/2NXjtiTQECBbBIiVk0FXOg4LaLVBSyLku7qoK6OYj/9HpX2nB1izbAjSWDD"
+  
+      },
+      "jar": "https://www.lintech.work/超大杯/custom_spider_20251016.tms;md5;04b565f0ad83c26c1ecd0ae04f747466"
+    },
+    {
+      "key": "🈵 小满万全 | 解析",
+      "name": "🈵 小满万全 | 解析",
+      "type": 3,
+      "api": "csp_LessIsMore",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 1,
+      "ext": {
+        "jxApi": "ElYCCOvkbFlMBDdoMgsgQf8Bi/YYvHC8tbrQ30wezTY8Ugoun+4eZ9mpD6dbGOs1hEXx/2NXjtiTQECBbBIiVk0FXOg4LaLVBSyLku7qoK6OYj/9HpX2nB1izbAjSWDD"
+  
+      },
+      "jar": "https://www.lintech.work/超大杯/custom_spider_20251016.tms;md5;04b565f0ad83c26c1ecd0ae04f747466"
+    },
      {
       "key": "tenteng",
       "name": "💖随缘①💖真4k",
@@ -818,18 +874,33 @@
 
   ],
   "parses": [
-      {
+    {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
       "name": "4K",
+      "type": 1,
+      "url": "http://sspa8.top:8100/api/?key=%E6%99%93%E5%AE%87&url="
+    },
+      {
+      "name": "4K1",
       "type": 1,
       "url": "http://167.234.211.77:4207/api/?key=XkIbVVBdUCUBEf2zlv&url="
     },
- 
- 
-    {
-      "name": "4K1",
+   {
+      "name": "4K2",
       "type": 1,
-      "url": "http://sspa8.top:8100/api/?key=%E6%99%93%E5%AE%87&url="
+      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
     }
+ 
+
   
   ],
   "flags": [
