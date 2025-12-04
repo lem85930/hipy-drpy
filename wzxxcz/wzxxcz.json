@@ -1298,6 +1298,25 @@
             "filterable": 1
         },
         {
+            "key": "剧下饭",
+            "name": "👑下饭弹幕",
+            "type": 3,
+            "changeable": 0,
+            "api": "https://cdn.jsdmirror.com/gh/wzxxcz/tvbox@main/py/AppV2.py",
+            "ext": {
+                "api": "http://yjer.jumianfei.com/api.php/v1.vod",
+                "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+                "apisignkey": "lvdoutv-1.0.0"
+            }
+        },
+        {
+            "key": "聚搜",
+            "name": "🐢聚搜影视",
+            "type": 3,
+            "api": "https://cdn.jsdmirror.com/gh/wzxxcz/tvbox@main/py/AppToV5.py",
+            "ext": "http://101.35.85.16:5555"
+        },
+        {
             "key": "瓜子影视",
             "name": "🍉瓜子影视",
             "type": 3,
@@ -32903,6 +32922,41 @@
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
                 "分类url": "http://vedio.kundihulan.com/vodshow/{cateId}--------{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#"
+            }
+        },
+        {
+            "key": "旺角影院",
+            "name": "🍊旺角影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://m.wuxigzw.com/",
+                "二次截取": "",
+                "数组": "lazyload&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "<span class=\"pic-text text-right\">&&</span>",
+                "链接": "href=\"&&\"",
+                "影片年代": "年份：&&</p>",
+                "影片地区": "地区：&&</p>",
+                "影片类型": "类型：&&</p>",
+                "状态": "状态：&&</p>",
+                "导演": "导演：&&</p>",
+                "主演": "主演：&&</p>",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+col-pd\">&&</div>",
+                "线路二次截取": "",
+                "线路数组": "more text-muted pull-right&&</div>",
+                "线路标题": "title\">&&</h3",
+                "播放二次截取": "",
+                "播放数组": "<ul class=\"stui-content__playlist clearfix&&</ul>",
+                "倒序": "0",
+                "播放列表": "<a&&</a>",
+                "播放标题": ">&&</a>",
+                "播放链接": "href=\"&&\"",
+                "分类url": "https://m.wuxigzw.com/vodshow/{cateId}--------{catePg}---.html",
+                "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#短剧$duanj#"
             }
         },
         {
