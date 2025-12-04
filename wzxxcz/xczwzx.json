@@ -765,18 +765,6 @@
             "playerType": 2
        },
        {
-            "key": "羊羊",
-            "name": "🐏羊羊影视",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppMuou",
-            "ext": {
-                "url": "https://ht.zhenxun.love",
-                "name": "羊羊学院"
-            }
-        },
-        {
             "key": "吉米",
             "name": "🎸吉米影视",
             "type": 3,
@@ -786,34 +774,12 @@
             }
         },
         {
-            "key": "思念",
-            "name": "🍨思念影视",
-            "type": 3,
-            "api": "csp_AppFox",
-            "ext": {
-                "host": "https://snys2.xyz",
-                "timeout": 15,
-                "ver": 2
-            }
-        },
-        {
             "key": "星空",
             "name": "🛸星空APP",
             "type": 3,
             "api": "csp_AppFox",
             "ext": {
                 "host": "http://fox.qwqfun.com"
-            }
-        },
-        {
-            "key": "鹤雪",
-            "name": "🦢鹤雪影视",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://hxys.07hx.shop",
-                "dataKey": "hex200762200762.",
-                "dataIv": "hex200762200762."
             }
         },
         {
@@ -1213,18 +1179,6 @@
             }
         },
         {
-            "key": "狂人",
-            "name": "🦸狂人影视",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.zjkrmv.vip",
-                "dataKey": "vXeyuJFqTKqWUtWU",
-                "dataIv": "vXeyuJFqTKqWUtWU"
-            }
-        },
-        {
             "key": "莱米",
             "name": "🍙莱米影视",
             "type": 3,
@@ -1463,18 +1417,6 @@
                 "url": "https://ios.hgyx.vip",
                 "dataKey": "062dec75d039980e",
                 "dataIv": "062dec75d039980e"
-            }
-        },
-        {
-            "key": "爱看",
-            "name": "⛲爱看影视",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.appdm.akandm.com",
-                "dataKey": "uI1TkPJC8B46AyN3",
-                "dataIv": "uI1TkPJC8B46AyN3"
             }
         },
         {
@@ -8232,83 +8174,6 @@
                 "搜索图片": "data-original=\"&&\"",
                 "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
                 "搜索链接": "href=\"&&\"",
-                "筛选": "1",
-                "类型": "",
-                "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影",
-                "剧情值": "*",
-                "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他",
-                "地区值": "*",
-                "年份": "1950-2025",
-                "年份值": "*",
-                "语言": "国语&英语&粤语&闽南语&韩语&日语&法语&德语&其它",
-                "语言值": "*",
-                "字母": "A&B&C&D&E&F&G&H&I&J&K&L&M&N&O&P&Q&R&S&T&U&V&W&X&Y&Z&0-9",
-                "字母值": "*",
-                "排序": "时间&人气&评分",
-                "排序值": "time&hits&score"
-            }
-        },
-        {
-            "key": "毒舌电影",
-            "name": "🐍毒舌电影",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 120,
-            "ext": {
-                "作者": "🍊小橙子/250817",
-                "站名": "毒舌电影",
-                "请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 9；； ASUS_I005DA Build/PI；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.70 Mobile Safari/537.36&&Cookie@&&Accept@text/html,application/xhtml+xml,application/xml；；q=0.9,image/avif,image/webp,image/apng,*/*；；q=0.8,application/signed-exchange；；v=b3；；q=0.7&&Accept-Language@zh-CN,zh；；q=0.9",
-                "编码": "UTF-8",
-                "图片代理": "0",
-                "直接播放": "0",
-                "播放请求头": "",
-                "嗅探词": ".mp4#.m3u8#.flv#hcts-m3u8#index.m3u8",
-                "免嗅": "1",
-                "过滤词": "",
-                "主页url": "https://www.dushe9.app/",
-                "首页": "120",
-                "起始页": "1",
-                "分类url": "https://www.dushe9.app/show/{cateId}--{area}-{lang}-{year}-3-{catePg}.html",
-                "分类": "电影$1#连续剧$2#动漫$3#综艺纪录$4#短剧$6#",
-                "二次截取": "",
-                "数组": "/detail/&&</a",
-                "标题": "<div class=\"v-item-title\">&&</div>",
-                "图片": "https://vres.mgdnka.cn/vod1/+/vod1/&&\"",
-                "副标题": "<div class=\"v-item-bottom\">&&</div>",
-                "链接": "/detail/+&&\"",
-                "影片年代": "",
-                "影片地区": "",
-                "影片类型": "",
-                "状态": "",
-                "导演": "",
-                "主演": "",
-                "简介": "🍊小橙子为您介绍剧情👉+detail-desc\">&&</div>",
-                "线路二次截取": "",
-                "线路数组": "source-item-label&&/span>",
-                "线路标题": ">&&<",
-                "播放二次截取": "",
-                "播放数组": "episode-list&&</div>",
-                "倒序": "0",
-                "播放列表": "<a&&</a>",
-                "播放标题": ">&&</a>",
-                "播放链接": "href=\"&&\"",
-                "解析": "",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "跳转解析": "",
-                "搜索请求头": "User-Agent$MOBILE_UA",
-                "搜索url": "https://www.dushe9.app/search?k={wd}&page={pg}&t=zQo%2BX4BlKz2Jd3Q5YckmUw%3D%3D",
-                "搜索模式": "1",
-                "搜索后缀": "",
-                "搜索二次截取": "",
-                "搜索数组": "",
-                "搜索标题": "",
-                "搜索图片": "",
-                "搜索副标题": "",
-                "搜索链接": "",
                 "筛选": "1",
                 "类型": "",
                 "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影",
@@ -32671,19 +32536,7 @@
             }
         },
         {
-            "key": "派对动漫",
-            "name": "🤣派对动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://qjappcms.acg.party",
-                "dataKey": "AmtMYFCJDPoTlK7z",
-                "dataIv": "AmtMYFCJDPoTlK7z"
-            }
-        },
-        {
-            "key": "丫丫",
+            "key": "丫丫动漫",
             "name": "🤣丫丫动漫",
             "type": 3,
             "quickSearch": 1,
@@ -32695,7 +32548,7 @@
             }
         },
         {
-            "key": "米饭",
+            "key": "米饭动漫",
             "name": "🍛米饭动漫",
             "type": 3,
             "quickSearch": 1,
@@ -32740,13 +32593,6 @@
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/路漫漫.js"
-        },
-        {
-            "key": "动漫岛",
-            "name": "🛸动漫岛动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/动漫岛.js"
         },
         {
             "key": "去看吧",
