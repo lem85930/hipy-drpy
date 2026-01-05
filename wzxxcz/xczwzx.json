@@ -20,13 +20,6 @@
             "logo": "http://diyp2.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "develop202",
-            "type": 0,
-            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-            "playerType": 2,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
-        {
             "name": "范明明（需开启V6网络）",
             "type": 0,
             "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
@@ -38,7 +31,7 @@
             "url": "https://sub.ottiptv.cc/huyayqk.m3u",
             "playerType": 2,
             "timeout": 10,
-            "ua": "okHttp/Mod-1.4.0.0"
+            "ua": "okHttp/Mod-1.5.0.0"
         },
         {
             "name": "斗鱼一起看",
@@ -46,7 +39,7 @@
             "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
             "playerType": 2,
             "timeout": 10,
-            "ua": "okHttp/Mod-1.4.0.0"
+            "ua": "okHttp/Mod-1.5.0.0"
         },
         {
             "name": "B站直播",
@@ -54,7 +47,7 @@
             "url": "https://sub.ottiptv.cc/bililive.m3u",
             "playerType": 2,
             "timeout": 10,
-            "ua": "okHttp/Mod-1.4.0.0"
+            "ua": "okHttp/Mod-1.5.0.0"
         },
         {
             "name": "YY轮播",
@@ -62,7 +55,7 @@
             "url": "https://sub.ottiptv.cc/yylunbo.m3u",
             "playerType": 2,
             "timeout": 10,
-            "ua": "okHttp/Mod-1.4.0.0"
+            "ua": "okHttp/Mod-1.5.0.0"
         }
     ],
     "sites": [
@@ -562,6 +555,21 @@
             "ext": {
                 "host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json",
                 "ver": 2
+            }
+        },
+        {
+            "key": "py_肥猫_APP",
+            "name": " 🐱肥猫影视",
+            "type": 3,
+            "api": "./py/肥猫.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "host": "http://103.236.61.192:8006",
+                "api": "/api.php/getappapi",
+                "datakey": "123456789abcdefg",
+                "dataiv": "123456789abcdefg"
             }
         },
         {
