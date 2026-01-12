@@ -13,31 +13,31 @@
         {
             "name": "iptvpro",
             "type": 0,
-            "ua": "okhttp/3.15",
+            "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro"
         },
         {
             "name": "港台大陆频道",
             "type": 0,
-            "ua": "okhttp/3.15",
+            "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道"
         },
         {
             "name": "港台大陆频道无18",
             "type": 0,
-            "ua": "okhttp/3.15",
+            "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道无18内容"
         },
         {
             "name": "xxx视频资源",
             "type": 0,
-            "ua": "okhttp/3.15",
+            "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源(免番强)"
         },
         {
             "name": "海角社区博主",
             "type": 0,
-            "ua": "okhttp/3.15",
+            "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/海角社区博主(免番强)"
         },
         {
@@ -4980,6 +4980,18 @@
                 "api": "/api.php/getappapi",
                 "datakey": "1234567890123456",
                 "dataiv": "1234567890123456"
+            }
+        },
+        {
+            "key": "py_木瓜_APP",
+            "name": "🍈木瓜影视",
+            "type": 3,
+            "api": "./py/木瓜.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "host": "http://www.yezitv.top"
             }
         },
         {
@@ -11834,10 +11846,27 @@
             "name": "🥌海底高清",
             "type": 3,
             "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 120,
             "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
+                "作者": "🍊小橙子/20260112",
+                "站名": "海底高清",
+                "请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 9；； ASUS_I003DD Build/PI；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.70 Mobile Safari/537.36&&Cookie@Hm_lvt_57cc18066ab7e7e1d181999b37ac5ffc=1768183578；； HMACCOUNT=17BED804ED862610；； _clck=crvmg0%5E2%5Eg2n%5E0%5E2203；； mac_history=%7Blog%3A%5B%7B%22name%22%3A%22%5B%E5%9B%BD%E4%BA%A7%E5%89%A7%5D%E7%BD%9A%E7%BD%AA2%22%2C%22link%22%3A%22https%3A%2F%2Fwww.hdwang.net%2Fvoddetail%2F220654%2F%22%2C%22pic%22%3A%22https%3A%2F%2Fviptulz.com%2Fupload%2Fvod%2F20251225-1%2F8b752d4f42ad48d26ce68ef4cca7ebd3.jpg%22%7D%5D%7D；； Hm_lpvt_57cc18066ab7e7e1d181999b37ac5ffc=1768183642；； _clsk=1ucus9c%5E1768183643242%5E6%5E1%5Ey.clarity.ms%2Fcollect&&Accept@text/html,application/xhtml+xml,application/xml；；q=0.9,image/avif,image/webp,image/apng,*/*；；q=0.8,application/signed-exchange；；v=b3；；q=0.7&&Accept-Language@zh-CN,zh；；q=0.9",
                 "编码": "UTF-8",
+                "图片代理": "0",
+                "直接播放": "0",
+                "播放请求头": "",
+                "嗅探词": ".mp4#.m3u8#.flv#hcts-m3u8#index.m3u8",
+                "免嗅": "1",
+                "过滤词": "",
                 "主页url": "https://www.hdwang.net/",
+                "首页": "120",
+                "起始页": "1",
+                "分类url": "https://www.hdwang.net/vodshow/{cateId}--------{catePg}---{year}/",
+                "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$5#体育$6#",
                 "二次截取": "",
                 "数组": "v-pic&&/div>",
                 "标题": "alt=\"&&\"",
@@ -11860,8 +11889,33 @@
                 "播放列表": "<a&&</a>",
                 "播放标题": ">&&<",
                 "播放链接": "href=\"&&\"",
-                "分类url": "https://www.hdwang.net/vodshow/{cateId}--------{catePg}---{year}/",
-                "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$5#体育$6#"
+                "解析": "",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "跳转解析": "",
+                "搜索请求头": "User-Agent$MOBILE_UA",
+                "搜索url": "https://www.hdwang.net/vodsearch/{wd}----------{pg}---/",
+                "搜索模式": "1",
+                "搜索后缀": "",
+                "搜索二次截取": "",
+                "搜索数组": "",
+                "搜索标题": "",
+                "搜索图片": "",
+                "搜索副标题": "",
+                "搜索链接": "",
+                "筛选": "1",
+                "类型": "",
+                "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影",
+                "剧情值": "*",
+                "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他",
+                "地区值": "*",
+                "年份": "1950-2026",
+                "年份值": "*",
+                "语言": "国语&英语&粤语&闽南语&韩语&日语&法语&德语&其它",
+                "语言值": "*",
+                "字母": "A&B&C&D&E&F&G&H&I&J&K&L&M&N&O&P&Q&R&S&T&U&V&W&X&Y&Z&0-9",
+                "字母值": "*",
+                "排序": "时间&人气&评分",
+                "排序值": "time&hits&score"
             }
         },
         {
